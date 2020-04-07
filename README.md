@@ -5,6 +5,7 @@ Trabajaremos todas las clases y codigos en este REPO así como en el Aula Virtua
 Semanalmente deben de actualizar el repo con el comando `git pull origin master`
 
 Para mas informacion comuniquese con su lider de equipo!
+Este es un cambio 
 
 # Profesor: 
 Daniel Guzman.
