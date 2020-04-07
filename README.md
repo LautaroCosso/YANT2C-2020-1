@@ -13,3 +13,4 @@ Daniel Guzman.
 
 - Daniel Guzman, daniel.guzman@ort.edu.ar
 - Melanie Salzman, salzmanmelanie@gmail.com
+- Alan Antar, alanantar@hotmail.com
