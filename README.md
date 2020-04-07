@@ -15,4 +15,5 @@ Daniel Guzman.
 - Daniel Guzman, daniel.guzman@ort.edu.ar
 - Melanie Salzman, salzmanmelanie@gmail.com
 - Gimena Melisa Maza, gimeligimaza@gmail.com
+- Jonathan Marcu , j.marcu@hotmail.com
 
