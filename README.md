@@ -17,3 +17,4 @@ Daniel Guzman.
 - Gimena Melisa Maza, gimeligimaza@gmail.com
 - Jonathan Marcu , j.marcu@hotmail.com
 - Alan Antar, alanantar@hotmail.com
+- Felipe Ortiz, ortiz.jfelipe@gmail.com
