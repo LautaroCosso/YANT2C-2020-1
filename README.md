@@ -5,6 +5,7 @@ Trabajaremos todas las clases y codigos en este REPO así como en el Aula Virtua
 Semanalmente deben de actualizar el repo con el comando `git pull origin master`
 
 Para mas informacion comuniquese con su lider de equipo!
+Este es un cambio 
 
 # Profesor: 
 Daniel Guzman.
@@ -13,4 +14,6 @@ Daniel Guzman.
 
 - Daniel Guzman, daniel.guzman@ort.edu.ar
 - Melanie Salzman, salzmanmelanie@gmail.com
+- Gimena Melisa Maza, gimeligimaza@gmail.com
+- Jonathan Marcu , j.marcu@hotmail.com
 - Alan Antar, alanantar@hotmail.com
