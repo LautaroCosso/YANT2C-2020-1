@@ -18,3 +18,4 @@ Daniel Guzman.
 - Jonathan Marcu , j.marcu@hotmail.com
 - Alan Antar, alanantar@hotmail.com
 - Felipe Ortiz, ortiz.jfelipe@gmail.com
+- Victor Stalla, victorstalla@gmail.com
