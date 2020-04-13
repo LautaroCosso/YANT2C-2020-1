@@ -19,3 +19,4 @@ Daniel Guzman.
 - Alan Antar, alanantar@hotmail.com
 - Felipe Ortiz, ortiz.jfelipe@gmail.com
 - Victor Stalla, victorstalla@gmail.com
+- Juan VERBAUWEDE, 
