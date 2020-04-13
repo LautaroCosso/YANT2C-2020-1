@@ -5,7 +5,7 @@ Trabajaremos todas las clases y codigos en este REPO así como en el Aula Virtua
 Semanalmente deben de actualizar el repo con el comando `git pull origin master`
 
 Para mas informacion comuniquese con su lider de equipo!
-Este es un cambio 
+Juan VERBAUWEDE 
 
 # Profesor: 
 Daniel Guzman.
@@ -19,3 +19,4 @@ Daniel Guzman.
 - Alan Antar, alanantar@hotmail.com
 - Felipe Ortiz, ortiz.jfelipe@gmail.com
 - Victor Stalla, victorstalla@gmail.com
+- Juan VERBAUWEDE, 
