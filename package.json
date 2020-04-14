@@ -1,0 +1,22 @@
+{
+  "name": "yant2c-2020-1",
+  "version": "1.0.0",
+  "description": "Proyecto Prueba para NT2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dguzman-ort/YANT2C-2020-1.git"
+  },
+  "author": "Daniel Guzman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dguzman-ort/YANT2C-2020-1/issues"
+  },
+  "homepage": "https://github.com/dguzman-ort/YANT2C-2020-1#readme",
+  "dependencies": {
+    "jest": "^25.3.0"
+  }
+}
