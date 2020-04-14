@@ -20,3 +20,4 @@ Daniel Guzman.
 - Felipe Ortiz, ortiz.jfelipe@gmail.com
 - Victor Stalla, victorstalla@gmail.com
 - Juan VERBAUWEDE, 
+- Pablo Rondeau, pablorondeau@gmail.com
