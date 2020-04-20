@@ -20,4 +20,5 @@ Daniel Guzman.
 - Felipe Ortiz, ortiz.jfelipe@gmail.com
 - Victor Stalla, victorstalla@gmail.com
 - Juan VERBAUWEDE, 
+- Ailin Diaz Insua, adiazinsua@hotmail.com
 - Pablo Rondeau, pablorondeau@gmail.com
