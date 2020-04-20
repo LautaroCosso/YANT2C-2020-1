@@ -22,3 +22,4 @@ Daniel Guzman.
 - Juan VERBAUWEDE, 
 - Ailin Diaz Insua, adiazinsua@hotmail.com
 - Pablo Rondeau, pablorondeau@gmail.com
+- Lautaro Cosso, lautaro.cosso@celtatechnology.com
